@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(135, 109, 164);
+    background-image: url(https://media.tenor.com/AkNak8NFhbMAAAAj/beating-heart.gif);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: 100% 5%;
+    margin: 15px;
+}
+
+p {
+    font-size: 1.5cm;
+    color: azure;
+    text-align: center;
+    background-image: url(https://i.pinimg.com/736x/5a/c1/29/5ac1296b709f4427d4c7785a322d78a2.jpg);
+    background-size: cover;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+    margin-bottom: 15px;
+}
+
+#d1 {
+    background-image: url(https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/geometric-star-wireframe_ver_1.png), url(https://t3.ftcdn.net/jpg/00/94/25/52/360_F_94255289_bLOLo8dVkESH4wP4QNVUg4hWBlcBEEOg.jpg);
+    background-position: center;
+    width: 600px;
+    border: ridge 20px plum;
+}
+
+#d2 {
+    background-image: linear-gradient(rgba(246, 213, 64, 0.5), rgba(78, 4, 105, 0.5)), url(https://townsquare.media/site/988/files/2021/09/attachment-RS35338_GettyImages-480975194-scr.jpg?w=980&q=75);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 333px;
+    border: solid 20px;
+    border-image: url(https://d33wubrfki0l68.cloudfront.net/b4759e96fa9ada8ee8caa4c771fcd503f289d791/5cf1a/img/triangle_background.jpg) 40 stretch;
+}
+
+#img1 {
+    width: 50%;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+}
+
+#img2 {
+    width: 50%;
+    border-radius: 50px;
+    box-shadow: 10px 10px 50px plum, -10px -10px 50px purple;
+    margin-bottom: 30px;
+}
+
+#img3 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    border: solid 10px;
+    border-image: linear-gradient(to right, MediumOrchid, MediumVioletRed) 50 stretch;
+    box-shadow: -30px 20px 35px palevioletred;
+    margin-bottom: 30px;
+}
+
+#img4 {
+    width: 50%;
+    margin: auto;
+    display: block;
+    margin-bottom: 30px;
+    border-radius: 55px;
+    border: 25px double hotpink;
+}
+
+#d3 {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/118/435/625/stars-purple-cosmos-hd-wallpaper-thumb.jpg);
+    background-size: cover;
+    border: solid 25px;
+    border-image: url(https://media2.giphy.com/media/Fbox1ygIqnga5dLinz/200w.gif?cid=6c09b952tlghum93djo7p1u9s5ozxhwpbupappehiuym3017&ep=v1_gifs_search&rid=200w.gif&ct=g) 40 stretch;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
+
+#d4 {
+    background-image: radial-gradient(circle, rgba(121, 56, 151, 0.5) 0%, rgba(29, 24, 35, 0.5) 100%), url(https://media4.giphy.com/media/chKcziobJPMRaTSPGA/giphy.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: inset 18px rgb(104, 91, 185);
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+}
